@@ -1,4 +1,4 @@
-package day09_StringManipulations;
+package day08_StringManipulation;
 
 public class C07_Substring {
     public static void main(String[] args) {

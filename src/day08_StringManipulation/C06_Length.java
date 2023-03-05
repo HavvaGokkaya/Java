@@ -1,4 +1,4 @@
-package day09_StringManipulations;
+package day08_StringManipulation;
 
 import java.util.Random;
 
